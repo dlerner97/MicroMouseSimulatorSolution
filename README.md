@@ -12,10 +12,10 @@
       sudo chmod +x bin/mms
       ```
       
-    and enter password.
+  and enter password.
       
-  ◦ If the maze user interface still does not start, re-download the mms-master from the
-    github page: https://github.com/mackorone/mms#download.
+◦ If the maze user interface still does not start, re-download the mms-master from the
+  github page: https://github.com/mackorone/mms#download.
       
 2) Once you get the maze simulator up and running, select the following “plus” icon on the right hand side.
 
