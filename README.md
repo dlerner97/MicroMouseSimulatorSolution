@@ -1,13 +1,17 @@
 # MicroMouseSimulatorSolution
 
 1) Open mms maze file.
+
   • Find the Final-Project-Group1 directory in a terminal window.
+  
   • Once there, type in bin/mms.
+  
     ◦ If this doesn’t work, type in 
       ```bash  
       sudo chmod +x bin/mms
       ```
       and enter password.
+      
     ◦ If the maze user interface still does not start, re-download the mms-master from the
       github page: https://github.com/mackorone/mms#download.
       
